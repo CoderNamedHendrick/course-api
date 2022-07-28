@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 28 04:05:25 WAT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-42c4-1db1-000002629420 
+on database directory memory:/Users/hendrick/IdeaProjects/course-api-data/e9f8430f-e425-4b5b-86e0-bda8bb3f4b6b with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1de0aca6 
+Loaded from file:/Users/hendrick/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18+36-2087
+user.dir=/Users/hendrick/IdeaProjects/course-api-data
+os.name=Mac OS X
+os.arch=aarch64
+os.version=12.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
